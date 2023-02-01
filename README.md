@@ -21,6 +21,7 @@
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
+
 ## About The Project
 
 this is a simple nodeJS project: 
@@ -63,7 +64,23 @@ git clone https://github.com/0xEbrahim/NodeJS-Notes-App
 npm install
 ```
 
-
+## How To Use
+<br> - to add a note
+```sh
+node app.js add --title="Title here" --body="Note nody here"
+```
+- remove note
+```sh
+node app.js remove --title="Title of note"
+```
+- to list all notes 
+```sh
+node app.js list
+```
+- to read a speciefic note
+```sh
+node app.js read ---title="Title of the note"
+```
 ### Creating A Pull Request
 
 
