@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "git": "^0.1.5",
+    "nodemon": "^2.0.20",
+    "validator": "^13.7.0",
+    "yarg": "^1.0.8",
+    "yargs": "^17.6.2"
+  },
+  "name": "notes-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ebrahin El-Sayed",
+  "license": "ISC",
+  "description": "Notes App"
+}
