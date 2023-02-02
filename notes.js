@@ -87,7 +87,7 @@ if(!exist){
 }
 
 module.exports = {
-getNotes,
+
 addNote,
 removeNote,
 listNotes,
